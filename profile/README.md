@@ -83,9 +83,10 @@ We're looking for:
 
 
 Want to contribute? Start here:
-- [Explore the projects](https://github.com/Openln-git)
+- [Explore the projects](https://github.com/Openln-git/)
 - [Open an issue](https://github.com/Openln-git/openln-engine/issues)
-- [Read our contribution guide](#) *(coming soon)*
+- [Read our contribution guide](https://github.com/Openln-git/openln-docs)
+- [Read our Community guidelines](https://github.com/Openln-git/openln-community)
 
 ---
 
