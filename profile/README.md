@@ -1,6 +1,7 @@
 # 🌐 Openln - Open Learning Network
 
-<img width="1584" height="396" alt="logo" src="https://github.com/user-attachments/assets/30a091ce-9a5f-49e7-a6cd-5853b8941017" />
+<img width="514" height="157" alt="logo1" src="https://github.com/user-attachments/assets/679e6871-181f-45f9-836a-67a22338d56c" />
+
 
 Openln is an open-source, community-driven **goal-based learning platform** designed to help individuals achieve their dreams by providing personalized roadmaps, curated resources, and hands-on daily challenges.
 
