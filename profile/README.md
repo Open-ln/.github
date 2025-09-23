@@ -1,103 +1,61 @@
-# 🌐 Openln - Open Learning Network
-
-<img width="514" height="157" alt="logo1" src="https://github.com/user-attachments/assets/679e6871-181f-45f9-836a-67a22338d56c" />
+<img width="1584" height="396" alt="Balaji R" src="https://github.com/user-attachments/assets/7820bfec-ae8a-4f9a-9f4d-1aee4e2047db" />
 
 
-Openln is an open-source, community-driven **goal-based learning platform** designed to help individuals achieve their dreams by providing personalized roadmaps, curated resources, and hands-on daily challenges.
+Welcome to the official GitHub organization for Open Learning Network (OpenLN).
 
-> 🎯 "Turn your goals into guided missions. Learn what matters, every day."
+***
 
----
+## About OpenLN
 
-## 🚀 What Problem Are We Solving?
+OpenLN is a community-driven open source organization dedicated to promoting independent learning and open collaboration. We support a diverse ecosystem of projects aimed at creating accessible learning resources and tools that empower self-learners worldwide.
 
-After talking to **1000+ students, professionals, and startup founders**, we discovered key problems in self-learning:
+***
 
-- 📌 **Too many resources, no clarity** — Over 2000+ resources online, but no direction on what suits **you**.
-- 🧭 **Lack of clear roadmaps** — Students have goals, but don’t know **how to reach them**.
-- 🛠️ **Hard to find right-fit resources** — Even professionals and founders struggle.
-- 💤 **Procrastination & short attention spans** — Over 50% give up mid-way.
+## Our Mission
 
-Openln solves this by **giving you a personalized roadmap**, broken into **daily tasks and challenges** that help you level up with consistency — no more confusion, no more wasted time.
+- Foster open, inclusive, and collaborative learning environments.
+- Build and maintain open source projects that support education.
+- Encourage community contributions and mentorship.
+- Drive innovation in accessible learning technologies.
 
----
+***
 
-## 💡 What is Openln?
+## Our Projects
 
-A platform where you tell us your goal, and we guide you step-by-step:
+Inside this organization, you will find multiple repositories focused on various aspects of learning networks, educational tools, and open source resources. Each project operates with its own goals, roadmaps, and contributor guidelines.
 
-Examples:
-- 🧑‍💻 "I want a 1 crore+ job package"
-- 🚀 "I want to start a startup"
-- 🔬 "I want to master AI/ML"
-- 📚 "I want to learn Web Development"
+***
 
-We give you:
-- ✅ Real roadmap based on your goal
-- 📅 Daily tasks + habit building
-- 🧪 Practice challenges
-- 🏆 Level-up system to track your progress
-- 🌍 Open community of learners & mentors
+## Get Involved
 
----
+We welcome developers, educators, contributors, and enthusiasts to join us in building open educational resources that make learning accessible to all.
 
-## 🔧 Projects in Development
+- Explore our repositories.
+- Engage in discussions and issue tracking.
+- Contribute code, documentation, or ideas.
+- Join our community channels to collaborate.
 
-| Project Name      | Description                                                 | Status     |
-|-------------------|-------------------------------------------------------------|------------|
-| `openln-engine`   | Core engine that generates roadmaps, tracks progress        | 🚧 Building MVP |
-| `rubric-lens`     | Evaluation API to assess tasks & provide feedback           | ✅ Working |
-| `certifyln`       | Certification system based on real skill verification       | 🧪 Prototype |
-| `openln-site`     | Web frontend to interact with the platform                  | 🏗️ Designing |
+***
 
----
+## Contact & Community
 
-## 🌱 Our Vision
+Stay connected with OpenLN:
 
-To become the **world’s most trusted open learning ecosystem**, where your goals are the starting point — not predefined courses.
-
-We want to **revolutionize upskilling** by building a decentralized, transparent, and AI-enhanced learning community for all.
-
----
-
-## CORE
-
-> [**Balaji R (RKB)**](https://github.com/balajirkb)  
-> **Founder of Openln & Maintainer**
-
-> [**Harish B**](https://github.com/harishb2006)  
-> **Maintainer** 
-
-
-> [**Vignesh Waran**](https://github.com/vigneshwaran-star)  
-> **Maintainer** 
-
----
-
-## 🤝 Join the Movement
-
-We're looking for:
-- 🧠 Core Contributors
-- 🔨 Developers (MERN / AI / Backend / Frontend)
-- ✨ Designers and Product Thinkers
-- 📣 Evangelists and Community Builders
-
-
+- Website: [OpenLN](https://openln.pages.dev)
+  
 Want to contribute? Start here:
-- [Explore the projects](https://github.com/Openln-git/)
-- [Open an issue](https://github.com/Openln-git/openln-engine/issues)
-- [Read our contribution guide](https://github.com/Openln-git/openln-docs)
-- [Read our Community guidelines](https://github.com/Openln-git/openln-community)
+- [Explore the projects](https://github.com/orgs/Open-ln/repositories)
+- [Open an issue](https://github.com/Open-ln/openln-engine/issues)
+- [Read our contribution guide](https://github.com/Open-ln/openln-docs)
 
----
+***
 
-## 🌍 License
+## Code of Conduct
 
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+OpenLN promotes a respectful, supportive, and welcoming environment for all contributors and learners. Please abide by our [Community guidelines](https://github.com/Open-ln/openln-community).
 
+***
 
----
+Thank you for your interest in OpenLN and for supporting open learning!
 
-> 🔗 Stay tuned — MVP coming soon.  
-> 💬 Drop your questions, ideas, or support in the discussions tab or issues.
-
+***
