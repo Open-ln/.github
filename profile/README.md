@@ -1,28 +1,28 @@
+# OpenLN – The True Open Learning Network
 <img width="1584" height="396" alt="Balaji R" src="https://github.com/user-attachments/assets/7820bfec-ae8a-4f9a-9f4d-1aee4e2047db" />
 
 
-Welcome to the official GitHub organization for Open Learning Network (OpenLN).
+Welcome to the official GitHub organization for Open Learning Network (OpenLN). An open, decentralized, learning network.
 
 ***
 
-## About OpenLN
+## What is OPENLN?
 
-OpenLN is a community-driven open source organization dedicated to promoting independent learning and open collaboration. We support a diverse ecosystem of projects aimed at creating accessible learning resources and tools that empower self-learners worldwide.
+OpenLN helps self-learners, career switchers, and professionals reach their goals with personalized roadmaps, hands-on experience, and industry-recognized certification. By blending artificial intelligence, community-driven content, and transparent evaluation, OPENLN creates a motivating and practical learning journey for everyone.
 
-***
+## Core Platforms
 
-## Our Mission
+- **OpenLn Engine:** Provides personalized learning roadmaps and daily tasks using AI.
+- **Content Hub:** A community-curated resource library covering tech and non-tech skills.
+- **Rubric Engine:** AI-based evaluation engine giving instant feedback on hands-on tasks.
+- **Certification Engine:** Platform for earning verifiable certificates and building learner portfolios.
 
-- Foster open, inclusive, and collaborative learning environments.
-- Build and maintain open source projects that support education.
-- Encourage community contributions and mentorship.
-- Drive innovation in accessible learning technologies.
+## Why OPENLN?
 
-***
-
-## Our Projects
-
-Inside this organization, you will find multiple repositories focused on various aspects of learning networks, educational tools, and open source resources. Each project operates with its own goals, roadmaps, and contributor guidelines.
+- Tackles the problem of too many online resources with no clear guidance.
+- Provides structure to combat low attention spans and procrastination.
+- Focuses on hands-on evaluation, not just theory.
+- Offers recognized ways to showcase skills to employers.
 
 ***
 
